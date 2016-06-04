@@ -1,6 +1,6 @@
 FROM resin/rpi-raspbian
 
-MAINTAINER apsoul@hotmail.com
+MAINTAINER the.soulman.is@gmail.com
 
 # Install wget, Download MongoDB 3.0.9 ARM build, untar
 RUN apt-get update && \
