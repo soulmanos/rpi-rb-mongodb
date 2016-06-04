@@ -1,4 +1,4 @@
-FROM soulmanos/rpi-raspbian:v2
+FROM resin/rpi-raspbian
 
 MAINTAINER apsoul@hotmail.com
 
