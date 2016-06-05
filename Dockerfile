@@ -32,6 +32,7 @@ RUN mv /root/mongodb.conf /etc/mongodb.conf \
     && chmod 755 /root/run.sh
 
 VOLUME ["/data"]
+
 EXPOSE 27017
 
 CMD ["/root/run.sh"]
